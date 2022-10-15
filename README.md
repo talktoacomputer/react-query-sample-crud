@@ -30,4 +30,4 @@ A REST API to perform simple CRUD operations for a Todo app.
 
 #### Footnotes
 
-[^1]: *It's funny that these are labelled FAQs (Frequently Asked Questions) even though nobody asked.*
+[^1]: It's funny that these are labelled FAQs (Frequently Asked Questions) even though nobody asked.
