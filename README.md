@@ -15,11 +15,13 @@ A REST API to perform simple CRUD operations for a Todo app.
 
 - What features are included in the app?
 > You can do all of the following: 
+
     - Read all todos in one place
     - Add a new todo
     - Mark a todo as complete/incomplete
     - Delete an existing todo
     - ~~Edit the content of a todo~~   
+    
 > I simply didn't care enough to add that last feature. You can fork this project and add it.
 
 - Does it have a backend?
