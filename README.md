@@ -2,6 +2,8 @@
 
 A REST API to perform simple CRUD operations for a Todo app.
 
+![Screenshot of the Todo App with sample data](https://cdn.discordapp.com/attachments/551831694676721684/1030857148500037682/todo_app_screenshot.png "Todo App Screenshot")
+
 ## FAQs [^1]
 
 - Is this your first Todo App?
