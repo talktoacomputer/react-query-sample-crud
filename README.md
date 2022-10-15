@@ -19,10 +19,7 @@ A REST API to perform simple CRUD operations for a Todo app.
     - Read all todos in one place
     - Add a new todo
     - Mark a todo as complete/incomplete
-    - Delete an existing todo
-    - ~~Edit the content of a todo~~   
-    
-> I simply didn't care enough to add that last feature. You can fork this project and add it.
+    - Delete an existing todo    
 
 - Does it have a backend?
 > Yes. Please head to [Simple Todo REST API](https://github.com/talktoacomputer/node-todo-rest-api) which was the backend used to build this app.
